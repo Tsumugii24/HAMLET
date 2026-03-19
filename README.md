@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/github/stars/Tsumugii24/HAMLET?style=flat&logo=github" alt="GitHub stars"/>
   <a rel="License" href="https://mit-license.org/"><img alt="License" style="border-width:0" src="https://img.shields.io/badge/license-MIT-green" /></a>
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg" alt="Python"/>
-  <a href="https://huggingface.co/Tsumugii/HAMLET"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-HAMLET-ffc107?color=ffc107&logoColor=white" alt="HuggingFace"></a>
+  <a href="https://huggingface.co/datasets/Tsumugii/HAMLET"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-HAMLET-ffc107?color=ffc107&logoColor=white" alt="HuggingFace"></a>
     <a href="https://arxiv.org/abs/2507.15518">
       <img src="https://img.shields.io/badge/paper-arXiv-b31b1b?color=b31b1b&logo=arxiv&logoColor=white" alt="arXiv">
     </a>
